@@ -1,7 +1,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.craving.craving"
-        version = "2">
+        version = "1.2">
     <name>Two minute craving dr.</name>
     <description>
         Web App by Digit Art Designs
