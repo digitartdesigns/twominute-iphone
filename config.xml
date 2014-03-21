@@ -28,4 +28,4 @@
 	<gap:splash src="images/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="images/Default_iphone5.png" gap:platform="ios" width="640" height="1136" />
 	<access origin="*" />
-</widget>
+</widget> 
